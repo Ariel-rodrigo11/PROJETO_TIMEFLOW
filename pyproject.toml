@@ -1,0 +1,13 @@
+[project]
+name = "projeto"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "notify-py>=0.3.43",
+    "pillow>=12.3.0",
+    "pygame>=2.6.1",
+    "pyinstaller>=6.21.0",
+]
